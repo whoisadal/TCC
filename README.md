@@ -74,7 +74,8 @@ A API estará disponível em `http://localhost:5000` ou no IP da sua rede local.
 
 ## 📷 Imagens do Projeto
 
-> (Insira aqui fotos do protótipo montado e prints do Blynk/app)
+![image](https://github.com/user-attachments/assets/5479c800-ee01-4d86-aff9-6093218286d2)
+
 
 ## ✅ Status
 
